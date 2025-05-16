@@ -441,7 +441,7 @@ export default function PathfindingVisualizer() {
       </div>
 
       <div className="mt-6 text-sm text-gray-600">
-        <p>Realizat de Sergiu Loghin și Tudor Coretchi, grupa TI-231 F/R.</p>
+        <p>Realizat de Sergiu Loghin, Tudor Coretchi și Russ Ion, grupa TI-231 F/R.</p>
       </div>
     </div>
   );
